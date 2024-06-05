@@ -1,0 +1,28 @@
+D:\OneDrive\Trabajo\TecyLab\semana 01\Ejercicios\src\Ejercicios\bin\Debug\net8.0\Ejercicios.exe
+D:\OneDrive\Trabajo\TecyLab\semana 01\Ejercicios\src\Ejercicios\bin\Debug\net8.0\Ejercicios.deps.json
+D:\OneDrive\Trabajo\TecyLab\semana 01\Ejercicios\src\Ejercicios\bin\Debug\net8.0\Ejercicios.runtimeconfig.json
+D:\OneDrive\Trabajo\TecyLab\semana 01\Ejercicios\src\Ejercicios\bin\Debug\net8.0\Ejercicios.dll
+D:\OneDrive\Trabajo\TecyLab\semana 01\Ejercicios\src\Ejercicios\bin\Debug\net8.0\Ejercicios.pdb
+D:\OneDrive\Trabajo\TecyLab\semana 01\Ejercicios\src\Ejercicios\obj\Debug\net8.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\semana 01\Ejercicios\src\Ejercicios\obj\Debug\net8.0\Ejercicios.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\semana 01\Ejercicios\src\Ejercicios\obj\Debug\net8.0\Ejercicios.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\semana 01\Ejercicios\src\Ejercicios\obj\Debug\net8.0\Ejercicios.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\semana 01\Ejercicios\src\Ejercicios\obj\Debug\net8.0\Ejercicios.dll
+D:\OneDrive\Trabajo\TecyLab\semana 01\Ejercicios\src\Ejercicios\obj\Debug\net8.0\refint\Ejercicios.dll
+D:\OneDrive\Trabajo\TecyLab\semana 01\Ejercicios\src\Ejercicios\obj\Debug\net8.0\Ejercicios.pdb
+D:\OneDrive\Trabajo\TecyLab\semana 01\Ejercicios\src\Ejercicios\obj\Debug\net8.0\Ejercicios.genruntimeconfig.cache
+D:\OneDrive\Trabajo\TecyLab\semana 01\Ejercicios\src\Ejercicios\obj\Debug\net8.0\ref\Ejercicios.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 01\Practica\src\Ejercicios\bin\Debug\net8.0\Ejercicios.exe
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 01\Practica\src\Ejercicios\bin\Debug\net8.0\Ejercicios.deps.json
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 01\Practica\src\Ejercicios\bin\Debug\net8.0\Ejercicios.runtimeconfig.json
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 01\Practica\src\Ejercicios\bin\Debug\net8.0\Ejercicios.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 01\Practica\src\Ejercicios\bin\Debug\net8.0\Ejercicios.pdb
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 01\Practica\src\Ejercicios\obj\Debug\net8.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 01\Practica\src\Ejercicios\obj\Debug\net8.0\Ejercicios.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 01\Practica\src\Ejercicios\obj\Debug\net8.0\Ejercicios.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 01\Practica\src\Ejercicios\obj\Debug\net8.0\Ejercicios.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 01\Practica\src\Ejercicios\obj\Debug\net8.0\Ejercicios.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 01\Practica\src\Ejercicios\obj\Debug\net8.0\refint\Ejercicios.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 01\Practica\src\Ejercicios\obj\Debug\net8.0\Ejercicios.pdb
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 01\Practica\src\Ejercicios\obj\Debug\net8.0\Ejercicios.genruntimeconfig.cache
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 01\Practica\src\Ejercicios\obj\Debug\net8.0\ref\Ejercicios.dll

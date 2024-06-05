@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5ABEEEDD-054E-4B77-BED1-21EE58A53054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios", "src\Ejercicios\Ejercicios.csproj", "{F7FA847E-06E1-4CC1-B321-F05D7FEA43B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7FA847E-06E1-4CC1-B321-F05D7FEA43B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FA847E-06E1-4CC1-B321-F05D7FEA43B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FA847E-06E1-4CC1-B321-F05D7FEA43B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FA847E-06E1-4CC1-B321-F05D7FEA43B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F7FA847E-06E1-4CC1-B321-F05D7FEA43B6} = {5ABEEEDD-054E-4B77-BED1-21EE58A53054}
+	EndGlobalSection
+EndGlobal
