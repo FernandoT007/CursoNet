@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yljNPQdd7lU=",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Trabajo\\TecyLab\\Curso Net y AWS\\semana 03\\Usuarios\\src\\Usuarios\\Usuarios.Application\\Usuarios.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferna\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
