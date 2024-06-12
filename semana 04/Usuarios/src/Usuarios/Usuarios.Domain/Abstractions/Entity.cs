@@ -8,7 +8,7 @@ public abstract class Entity
     {
         Id = id;
     }
-    public Guid Id { get; set; }
+    public Guid Id { get; init; }
 
     public IReadOnlyList<IDomainEvent> GetDomainEvents()
     {

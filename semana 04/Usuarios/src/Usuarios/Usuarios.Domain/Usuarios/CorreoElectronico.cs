@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-namespace Usuarios.Domain.Usuario;
+namespace Usuarios.Domain.Usuarios;
 
 public record CorreoElectronico
 {
