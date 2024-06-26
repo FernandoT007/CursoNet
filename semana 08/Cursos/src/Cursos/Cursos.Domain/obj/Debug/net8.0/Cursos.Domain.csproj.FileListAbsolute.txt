@@ -1,0 +1,12 @@
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 08\Cursos\src\Cursos\Cursos.Domain\bin\Debug\net8.0\Cursos.Domain.deps.json
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 08\Cursos\src\Cursos\Cursos.Domain\bin\Debug\net8.0\Cursos.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 08\Cursos\src\Cursos\Cursos.Domain\bin\Debug\net8.0\Cursos.Domain.pdb
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 08\Cursos\src\Cursos\Cursos.Domain\obj\Debug\net8.0\Cursos.Domain.csproj.AssemblyReference.cache
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 08\Cursos\src\Cursos\Cursos.Domain\obj\Debug\net8.0\Cursos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 08\Cursos\src\Cursos\Cursos.Domain\obj\Debug\net8.0\Cursos.Domain.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 08\Cursos\src\Cursos\Cursos.Domain\obj\Debug\net8.0\Cursos.Domain.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 08\Cursos\src\Cursos\Cursos.Domain\obj\Debug\net8.0\Cursos.Domain.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 08\Cursos\src\Cursos\Cursos.Domain\obj\Debug\net8.0\Cursos.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 08\Cursos\src\Cursos\Cursos.Domain\obj\Debug\net8.0\refint\Cursos.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 08\Cursos\src\Cursos\Cursos.Domain\obj\Debug\net8.0\Cursos.Domain.pdb
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 08\Cursos\src\Cursos\Cursos.Domain\obj\Debug\net8.0\ref\Cursos.Domain.dll
