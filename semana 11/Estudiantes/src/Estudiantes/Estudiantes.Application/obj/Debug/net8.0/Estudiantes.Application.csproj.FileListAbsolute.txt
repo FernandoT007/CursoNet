@@ -1,0 +1,15 @@
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Application.deps.json
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Domain.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\bin\Debug\net8.0\Estudiantes.Domain.pdb
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.csproj.AssemblyReference.cache
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.AssemblyInfoInputs.cache
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.AssemblyInfo.cs
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.csproj.CoreCompileInputs.cache
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudian.2CE2ACAB.Up2Date
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\refint\Estudiantes.Application.dll
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\Estudiantes.Application.pdb
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 11\Estudiantes\src\Estudiantes\Estudiantes.Application\obj\Debug\net8.0\ref\Estudiantes.Application.dll
