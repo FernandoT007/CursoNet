@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xXuiKuTUJnQ=",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Trabajo\\TecyLab\\Curso Net y AWS\\semana 09\\Docentes\\src\\Docentes\\Docentes.Domain\\Docentes.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferna\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+﻿D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Domain\Abstractions\Entity.cs
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Domain\Abstractions\Error.cs
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Domain\Abstractions\IUnitOfWork.cs
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Domain\Abstractions\Result.cs
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Domain\Estudiantes\Estudiante.cs
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Domain\Estudiantes\EstudianteErrors.cs
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Domain\Estudiantes\IEstudianteRepository.cs
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Domain\Matriculas\IMatriculaRepository.cs
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Domain\Matriculas\Matricula.cs
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Domain\Matriculas\MatriculaErrors.cs

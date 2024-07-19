@@ -1,0 +1,29 @@
+Product projects
+---------------------------------------
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Domain\Estudiantes.Domain.csproj
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Application\Estudiantes.Application.csproj
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\Estudiantes.Infrastructure.csproj
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Api\Estudiantes.Api.csproj
+
+
+Test projects
+---------------------------------------
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\test\Estudiantes.Domain.Tests\Estudiantes.Domain.Tests.csproj
+D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\test\Estudiantes.Application.Tests\Estudiantes.Application.Tests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

@@ -1,0 +1,19 @@
+¥
+®D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\obj\Debug\net8.0\Estudiantes.Infrastructure.AssemblyInfo.csutf-8∏
+¨D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8∂
+™D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\obj\Debug\net8.0\Estudiantes.Infrastructure.GlobalUsings.g.csutf-8ë
+áD:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\Services\UsuarioService.csutf-8î
+äD:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\Services\RedisCacheService.csutf-8ë
+áD:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\Services\DocenteService.csutf-8è
+ÖD:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\Services\CursoService.csutf-8ë
+áD:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\Repositories\Repository.csutf-8ö
+êD:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\Repositories\MatriculaRepository.csutf-8õ
+ëD:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\Repositories\EstudianteRepository.csutf-8¨
+†D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\Migrations\20240710021551_InitialCreate.Designer.csutf-8®
+úD:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\Migrations\ApplicationDbContextModelSnapshot.csutf-8°
+óD:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\Migrations\20240710021551_InitialCreate.csutf-8ç
+ÉD:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\DependencyInjection.csutf-8†
+ñD:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\Configurations\MatriculaConfigurations.csutf-8°
+óD:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\Configurations\EstudianteConfigurations.csutf-8ê
+ÜD:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\Clock\DateTimeProvider.csutf-8é
+ÑD:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\src\Estudiantes\Estudiantes.Infrastructure\ApplicationDbContext.csutf-8

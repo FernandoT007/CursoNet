@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Estudiantes.Application.Tests</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Test</ProjectType>
+  <ProjectGuid>5138b121-73ed-4e49-ad5a-a44bc49bf95e</ProjectGuid>
+  <FullPath>D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\test\Estudiantes.Application.Tests\Estudiantes.Application.Tests.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\.sonarqube\conf\3\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\.sonarqube\out\3\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">D:\OneDrive\Trabajo\TecyLab\Curso Net y AWS\semana 12\Estudiantes\.sonarqube\out\3</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net8.0</TargetFramework>
+</ProjectInfo>

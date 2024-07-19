@@ -1,0 +1,39 @@
+services:
+  usuarios:
+    container_name: ms-usuarios-container
+    build: 
+      context: .
+      dockerfile: Usuarios/Dockerfile
+    image: ms-usuarios-docker
+    networks:
+      - microservices-network
+    ports:
+      - "7777:7777"
+
+  docentes:
+    container_name: ms-docentes-container
+    build: 
+      context: .
+      dockerfile: Docentes/Dockerfile
+    image: ms-docentes-docker
+    networks:
+      - microservices-network
+    ports:
+      - "8888:8888"
+    depends_on:
+      - cursos
+
+  cursos:
+    container_name: ms-cursos-container
+    build: 
+      context: .
+      dockerfile: Cursos/Dockerfile
+    image: ms-cursos-docker
+    networks:
+      - microservices-network
+    ports:
+      - "9999:9999"
+
+networks:
+  microservices-network:
+    driver : bridge
